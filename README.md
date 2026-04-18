@@ -21,7 +21,7 @@ This repository contains study notes and algorithm tracing logs for the Korean n
 
 ### 2. SQL & DB
 - SELECT, JOIN, サブクエリなどの基本練習
-- テーブル 구조와 결과 예측 연습
+- テーブル構造の把握とSQL実行結果の予測練習
 - データベース設計の基礎整理
 
 ### 3. 誤答ノート / Review Notes
