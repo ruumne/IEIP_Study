@@ -9,8 +9,7 @@ def f(a):
         b[1+i] += b[i]
     result = sum([len(x) for x in m])
     return result
-
-print(f())[1][2][3][4]
+print(f([1,2,3,4]))
 ```
 
 ## ❌ 私の解答 (My Answer)
