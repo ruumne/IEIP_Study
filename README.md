@@ -2,7 +2,7 @@ IEIP_Study (情報処理技術者試験 実技対策)
 Information Processing Engineer Practical Exam Study Log
 
 📌 概要 (Overview)
-韓国の国家資格である**「情報処理技術者試験 (実技)」**の合格に向けた学習記録と、アルゴリズム問題のトレーシングノートです。
+韓国の国家資格である「情報処理技術者試験 (実技)」の合格に向けた学習記録と、アルゴリズム問題のトレーシングノートです。
 (This repository contains study notes and algorithm tracing logs for the Korean national certification, 'Information Processing Engineer (Practical)'.)
 
 🎯 目標 (Goal)
